@@ -38,8 +38,8 @@ Ensure you have the following installed on your system:
 
 1. **Clone the Repository**
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/Sneha12c/Eventcalenderapp
+   cd Eventcalenderapp
    ```
 
 2. **Install Dependencies**
