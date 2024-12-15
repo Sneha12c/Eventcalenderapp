@@ -55,3 +55,4 @@ Ensure you have the following installed on your system:
 4. **Open in Browser**
    Open [http://localhost:3000](http://localhost:3000) to view the app in the browser.
 
+Link for live - https://eventcalenderapp-fmj6buf3f-sneha12cs-projects.vercel.app/
